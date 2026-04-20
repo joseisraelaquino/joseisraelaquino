@@ -18,3 +18,25 @@ Soy docente de informática con una fuerte pasión por las redes informáticas y
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 🚀 Proyectos
+
+### 📁 Nombre del Proyecto
+> Descripción breve: aplicación web desarrollada con PHP y JavaScript que permite [funcionalidad principal].
+
+🔗 [Ver repositorio](#) *(reemplaza con el enlace real)*
+
+---
+
+## 📬 Contacto
+
+¿Quieres colaborar o tienes alguna pregunta? ¡Escríbeme!
+
+[![Email](https://img.shields.io/badge/Email-joseisraelaquino8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joseisraelaquino8@gmail.com)
+
+---
+
+<p align="center">
+  Hecho con ❤️ por Israel Aquino
+</p>
